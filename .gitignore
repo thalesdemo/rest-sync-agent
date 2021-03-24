@@ -1,0 +1,4 @@
+
+db/cache.json
+*.log
+*.zip
